@@ -1,1 +1,1 @@
-sudo docker build -t joshjdevl/recommender-engines .
+sudo docker build -t joshjdevl/recommender .
